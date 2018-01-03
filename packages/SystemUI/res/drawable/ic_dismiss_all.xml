@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (C) 2017 The Pure Nexus Project
+  ~ Copyright (C) 2014 The Android Open Source Project
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,12 +20,12 @@
     android:viewportWidth="48.0"
     android:viewportHeight="48.0">
     <path
-        android:fillColor="@color/fab_color"
+        android:fillColor="#ffffff"
         android:pathData="M8.0,19.994l32.0,0.0l0.0,8.0l-32.0,0.0z"/>
     <path
-        android:fillColor="@color/fab_color"
+        android:fillColor="#ffffff"
         android:pathData="M0.0,32.0l32.0,0.0l0.0,7.979l-32.0,0.0z"/>
     <path
-        android:fillColor="@color/fab_color"
+        android:fillColor="#ffffff"
         android:pathData="M16.0,8.0l32.0,0.0l0.0,8.0l-32.0,0.0z"/>
 </vector>
