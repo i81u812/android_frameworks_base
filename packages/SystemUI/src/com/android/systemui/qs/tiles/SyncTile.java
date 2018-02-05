@@ -16,7 +16,6 @@
 
 package com.android.systemui.qs.tiles;
 
-import android.content.ComponentName;
 import android.content.ContentResolver;
 import android.content.Intent;
 import android.content.SyncStatusObserver;
@@ -81,9 +80,11 @@ public class SyncTile extends QSTileImpl<BooleanState> {
         if (state.value) {
             state.contentDescription =  mContext.getString(
                     R.string.accessibility_quick_settings_sync_on);
+            state.state = Tile.STATE_ACTIVE;
         } else {
             state.contentDescription =  mContext.getString(
                     R.string.accessibility_quick_settings_sync_off);
+            state.state = Tile.STATE_INACTIVE;
         }
     }
 
