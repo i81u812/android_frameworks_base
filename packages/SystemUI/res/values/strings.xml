@@ -461,13 +461,13 @@
     <!-- Content description for the quick settings panel (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <!-- Content description for the lock screen (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_desc_lock_screen">Lock screen.</string>
+    <string name="accessibility_desc_lock_screen">Lockscreen</string>
     <!-- Content description for the settings button in the status bar header. [CHAR LIMIT=NONE] -->
     <string name="accessibility_desc_settings">Settings</string>
     <!-- Content description for the recent apps panel (not shown on the screen). [CHAR LIMIT=NONE] -->
     <string name="accessibility_desc_recent_apps">Overview.</string>
     <!-- Content description for the work profile lock screen. This prevents work profile apps from being used, but personal apps can be used as normal (not shown on the screen). [CHAR LIMIT=NONE] -->
-    <string name="accessibility_desc_work_lock">Work lock screen</string>
+    <string name="accessibility_desc_work_lock">Work lockscreen</string>
     <!-- Content description for the close button in the zen mode panel introduction message. [CHAR LIMIT=NONE] -->
     <string name="accessibility_desc_close">Close</string>
 
@@ -1289,13 +1289,13 @@
     <string name="show_battery_percentage">Show embedded battery percentage</string>
 
     <!-- Summary for battery percentage preference [CHAR LIMIT=NONE] -->
-    <string name="show_battery_percentage_summary">Show battery level percentage inside the status bar icon when not charging</string>
+    <string name="show_battery_percentage_summary">Show battery level percentage inside the statusbar icon when not charging</string>
 
     <!-- Name of quick settings -->
     <string name="quick_settings">Quick Settings</string>
 
     <!-- Name of status bar -->
-    <string name="status_bar">Status bar</string>
+    <string name="status_bar">Statusbar</string>
 
     <!-- Name of overview -->
     <string name="overview">Overview</string>
@@ -1380,7 +1380,7 @@
     <!-- Name of setting to show clock seconds [CHAR LIMIT=40] -->
     <string name="clock_seconds">Show clock seconds</string>
     <!-- Description of setting to show clock seconds [CHAR LIMIT=NONE] -->
-    <string name="clock_seconds_desc">Show clock seconds in the status bar. May impact battery life.</string>
+    <string name="clock_seconds_desc">Show clock seconds in the statusbar. May impact battery life.</string>
 
     <!-- Button that leads to page to rearrange quick settings tiles [CHAR LIMIT=60] -->
     <string name="qs_rearrange">Rearrange Quick Settings</string>
@@ -1440,7 +1440,7 @@
         \n- Prevent full screen interruption
         \n- Never peek
         \n- Never make sound or vibrate
-        \n- Hide from lock screen and status bar
+        \n- Hide from lockscreen and statusbar
         \n- Show at the bottom of the notification list
         \n\n<b>Level 0</b>
         \n- Block all notifications from the app
@@ -1889,7 +1889,7 @@
     <string name="tuner_doze_always_on" translatable="false">Always on</string>
 
     <!-- SysUI Tuner: Section to customize lockscreen shortcuts [CHAR LIMIT=60] -->
-    <string name="tuner_lock_screen">Lock screen</string>
+    <string name="tuner_lock_screen">Lockscreen</string>
 
     <!-- Making the PIP fullscreen [CHAR LIMIT=25] -->
     <string name="pip_phone_expand">Expand</string>

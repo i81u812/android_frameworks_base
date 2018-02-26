@@ -28,11 +28,11 @@
     <string name="accessibility_unlock_task">Allow <xliff:g id="task">%1$s</xliff:g> to be dismissed</string>
 
     <!-- Heads up QS tile -->
-    <string name="quick_settings_heads_up_label">Heads up</string>
-    <string name="accessibility_quick_settings_heads_up_off">Heads up off.</string>
-    <string name="accessibility_quick_settings_heads_up_on">Heads up on.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_off">Heads up turned off.</string>
-    <string name="accessibility_quick_settings_heads_up_changed_on">Heads up turned on.</string>
+    <string name="quick_settings_heads_up_label">Heads-up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads-up off.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads-up on.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Heads-up turned off.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Heads-up turned on.</string>
 
 
     <!-- Text to use when the number in a notification info is too large
@@ -62,9 +62,9 @@
     <!-- Restart progress dialog. This is shown if the user chooses to restart the device. -->
     <string name="global_action_restart_progress">Restarting\u2026</string>
     <!-- Restart to recovery mode progress dialog. This is shown if the user chooses to restart the device. -->
-    <string name="global_action_restart_recovery_progress">Restarting to recovery mode\u2026</string>
+    <string name="global_action_restart_recovery_progress">Restarting to recovery\u2026</string>
     <!-- Restart to bootloader mode progress dialog. This is shown if the user chooses to restart the device. -->
-    <string name="global_action_restart_bootloader_progress">Restarting to bootloader mode\u2026</string>
+    <string name="global_action_restart_bootloader_progress">Restarting to bootloader\u2026</string>
     <!-- Restart to download mode progress dialog. This is shown if the user chooses to restart the device. -->
     <string name="global_action_restart_download_progress">Restarting to download mode\u2026</string>
 
